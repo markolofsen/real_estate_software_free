@@ -5,12 +5,16 @@
 ---
 
 # Real estate software
+Attention to Airbnb homeowners! Save time and money with new Airbnb Assistant. Get booking directly and pay NO any fees. Manage your guest list and invite them again with a simple click of a button.
+
 Real estate software. Free Airbnb-CRM. Own website, no fees & instant booking.
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-## Exact copy of Airbnb! Setup in 5 minutes!
-## <a href="https://demo.estate.im">Demo website</a>
+### Exact copy of Airbnb! Setup in 5 minutes!
+### <a href="https://demo.estate.im">Demo website</a>
 
 ### AIrbnb features
 * Import apartments from Airbnb (<a href="https://estate.im/">Demo import</a>)
@@ -30,10 +34,13 @@ Real estate software. Free Airbnb-CRM. Own website, no fees & instant booking.
 * Google Analytics, Yandex Metrika.
 * 24/7 support.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = real_estate_software_free <br />
 Title = Real estate software <br />
 Keywords = airbnb clone script estate wordpress site theme rental software python django, software program <br />
